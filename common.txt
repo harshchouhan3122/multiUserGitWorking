@@ -1,1 +1,2 @@
 This is from VM1.
+This is from VM2. (Added new feature)
